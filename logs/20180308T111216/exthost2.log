@@ -1,0 +1,31 @@
+[2018-03-08 11:12:33.217] [exthost2] [info] extension host started
+[2018-03-08 11:12:33.286] [exthost2] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-03-08 11:12:33.286] [exthost2] [info] ExtensionService#loadCommonJSModule /Applications/Visual Studio Code - Insiders.app/Contents/Resources/app/extensions/emmet/out/extension
+[2018-03-08 11:12:36.491] [exthost2] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-03-08 11:12:36.491] [exthost2] [info] ExtensionService#loadCommonJSModule /Applications/Visual Studio Code - Insiders.app/Contents/Resources/app/extensions/git/out/main
+[2018-03-08 11:12:40.471] [exthost2] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-03-08 11:12:40.471] [exthost2] [info] ExtensionService#loadCommonJSModule /Applications/Visual Studio Code - Insiders.app/Contents/Resources/app/extensions/merge-conflict/out/extension
+[2018-03-08 11:12:40.630] [exthost2] [info] ExtensionService#_doActivateExtension alefragnani.Bookmarks {"startup":true,"activationEvent":"*"}
+[2018-03-08 11:12:40.630] [exthost2] [info] ExtensionService#loadCommonJSModule /Users/carlca/.vscode-insiders/extensions/alefragnani.bookmarks-0.18.2/out/src/extension
+[2018-03-08 11:12:40.781] [exthost2] [info] ExtensionService#_doActivateExtension alefragnani.numbered-bookmarks {"startup":true,"activationEvent":"*"}
+[2018-03-08 11:12:40.781] [exthost2] [info] ExtensionService#loadCommonJSModule /Users/carlca/.vscode-insiders/extensions/alefragnani.numbered-bookmarks-0.11.1/out/src/extension
+[2018-03-08 11:12:40.842] [exthost2] [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css {"startup":true,"activationEvent":"*"}
+[2018-03-08 11:12:40.842] [exthost2] [info] ExtensionService#loadCommonJSModule /Users/carlca/.vscode-insiders/extensions/be5invis.vscode-custom-css-2.7.0/src/extension
+[2018-03-08 11:12:40.917] [exthost2] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2018-03-08 11:12:40.917] [exthost2] [info] ExtensionService#loadCommonJSModule /Users/carlca/.vscode-insiders/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2018-03-08 11:12:41.104] [exthost2] [info] ExtensionService#_doActivateExtension danields761.status-bar-breadcrumb {"startup":true,"activationEvent":"*"}
+[2018-03-08 11:12:41.104] [exthost2] [info] ExtensionService#loadCommonJSModule /Users/carlca/.vscode-insiders/extensions/danields761.status-bar-breadcrumb-0.2.0/out/extension
+[2018-03-08 11:12:41.194] [exthost2] [info] ExtensionService#_doActivateExtension dariofuzinato.vue-peek {"startup":true,"activationEvent":"*"}
+[2018-03-08 11:12:41.194] [exthost2] [info] ExtensionService#loadCommonJSModule /Users/carlca/.vscode-insiders/extensions/dariofuzinato.vue-peek-1.0.2/out/src/extension
+[2018-03-08 11:12:41.222] [exthost2] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2018-03-08 11:12:41.222] [exthost2] [info] ExtensionService#loadCommonJSModule /Users/carlca/.vscode-insiders/extensions/esbenp.prettier-vscode-1.2.2/out/src/extension
+[2018-03-08 11:12:43.647] [exthost2] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2018-03-08 11:12:43.647] [exthost2] [info] ExtensionService#loadCommonJSModule /Users/carlca/.vscode-insiders/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2018-03-08 11:12:43.683] [exthost2] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2018-03-08 11:12:43.683] [exthost2] [info] ExtensionService#loadCommonJSModule /Users/carlca/.vscode-insiders/extensions/formulahendry.auto-rename-tag-0.0.15/out/src/extension
+[2018-03-08 11:12:43.836] [exthost2] [info] ExtensionService#_doActivateExtension golf1052.base16-generator {"startup":true,"activationEvent":"*"}
+[2018-03-08 11:12:43.836] [exthost2] [info] ExtensionService#loadCommonJSModule /Users/carlca/.vscode-insiders/extensions/golf1052.base16-generator-1.4.0/out/src/extension
+[2018-03-08 11:12:43.961] [exthost2] [info] ExtensionService#_doActivateExtension Kiteco.kite {"startup":true,"activationEvent":"*"}
+[2018-03-08 11:12:43.961] [exthost2] [info] ExtensionService#loadCommonJSModule /Users/carlca/.vscode-insiders/extensions/kite.vscode/src/kite
+[2018-03-08 11:12:49.281] [exthost2] [info] ExtensionService#_doActivateExtension robertohuertasm.vscode-icons {"startup":true,"activationEvent":"*"}
+[2018-03-08 11:12:49.281] [exthost2] [info] ExtensionService#loadCommonJSModule /Users/carlca/.vscode-insiders/extensions/robertohuertasm.vscode-icons-7.20.0/out/src/

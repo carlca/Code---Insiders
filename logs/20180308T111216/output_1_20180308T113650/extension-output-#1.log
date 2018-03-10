@@ -1,0 +1,6 @@
+Finished running tool: /Users/carlca/Code/go/bin/golint
+
+Finished running tool: /usr/local/go/bin/go build -i -o /var/folders/1d/1rqcnlq51zd4j_vqhp1kv3540000gp/T/go-code-check .
+
+Finished running tool: /usr/local/go/bin/go tool vet -asmdecl -assign -atomic -bool -buildtags -cgocall -compositewhitelist -httpresponse -lostcancel -methods -nilfunc -printf -rangeloops -shadow -shadowstrict -shift -source -structtags -tests -unreachable -unsafeptr -unusedfuncs errors.New,fmt.Errorf,fmt.Sprintf,fmt.Sprint,sort.Reverse -unusedresult -unusedstringmethods Error,String .
+

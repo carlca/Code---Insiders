@@ -1,0 +1,73 @@
+[2018-03-10 15:49:56.639] [sharedprocess] [info] main {"machineId":"36ec910d688acd007eb110425c1ec45c8aae321d3479aff6e48c95ef59ba9530"}
+[2018-03-10 15:49:57.392] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 15:49:57.898] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 15:49:58.772] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 15:49:58.775] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 15:49:58.911] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 15:50:04.000] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 15:50:04.080] [sharedprocess] [info] Installing extension: base16-generator
+[2018-03-10 15:50:10.381] [sharedprocess] [info] Downloaded extension: base16-generator
+[2018-03-10 15:50:27.845] [sharedprocess] [info] Extracted extension to /Users/carlca/.vscode-insiders/extensions/golf1052.base16-generator-1.5.0: golf1052.base16-generator-1.5.0
+[2018-03-10 15:50:28.204] [sharedprocess] [info] Updated metadata of the extension: golf1052.base16-generator-1.5.0
+[2018-03-10 15:50:28.205] [sharedprocess] [info] Extensions installed successfully: golf1052.base16-generator
+[2018-03-10 15:50:28.580] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 15:50:28.586] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 15:50:36.662] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-03-10 15:55:04.382] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 16:00:06.203] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 16:05:07.263] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 16:10:08.264] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 16:15:08.400] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 16:20:08.474] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 16:25:08.955] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 16:30:09.890] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 16:35:09.960] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 16:40:10.982] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 16:45:11.058] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 16:50:11.246] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 16:55:12.592] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 17:00:12.666] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 17:05:12.738] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 17:10:13.610] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 17:15:15.000] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 17:20:15.076] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 17:25:16.019] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 17:30:16.093] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 17:35:16.151] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 17:40:16.220] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 17:45:16.282] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 17:50:16.486] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 17:55:16.546] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 18:00:16.648] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 18:05:16.717] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 18:10:16.782] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 18:15:16.842] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 18:20:16.903] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 18:25:16.961] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 18:30:17.024] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 18:35:17.104] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 18:40:17.180] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 18:45:17.242] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 18:50:17.590] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 18:55:17.652] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 18:57:12.385] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 18:57:12.388] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 18:57:12.453] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 18:57:12.855] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 18:57:12.864] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 19:00:17.712] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 19:05:17.804] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 19:10:17.863] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 19:15:17.931] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 19:20:17.994] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 19:25:18.054] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 19:30:18.117] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 19:35:18.181] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 19:40:18.240] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 19:45:18.297] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 19:50:18.523] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 19:55:18.581] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 20:00:18.644] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 20:05:18.715] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 20:10:18.772] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-10 20:15:18.828] [sharedprocess] [info] Scanned user extensions: 46

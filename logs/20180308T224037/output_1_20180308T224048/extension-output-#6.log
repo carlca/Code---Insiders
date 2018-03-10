@@ -1,0 +1,4 @@
+[Info  - 22:25:08] Using tsserver from: /Applications/Visual Studio Code - Insiders.app/Contents/Resources/app/extensions/node_modules/typescript/lib
+[Info  - 22:25:08] Forking TSServer
+PATH: /Users/carlca/music/extempore/runtime:/Users/carlca/music/extempore:/opt/metasploit-framework/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/3.6/bin:/Users/carlca/.cargo/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/share/dotnet:/usr/local/go/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Applications/Xamarin Workbooks.app/Contents/SharedSupport/path-bin:/Users/carlca/Code/go/bin:/Library/PostgreSQL/10/bin
+[Info  - 22:25:09] Started TSServer

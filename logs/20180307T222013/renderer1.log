@@ -1,0 +1,13 @@
+[2018-03-07 22:20:33.279] [renderer1] [error] Unable to load /Users/carlca/.vscode-insiders/extensions/johnpapa.winteriscoming-0.5.0/themes/WinterIsComing-dark-color-theme.json: Problems parsing JSON theme file: Value expected: Error: Unable to load /Users/carlca/.vscode-insiders/extensions/johnpapa.winteriscoming-0.5.0/themes/WinterIsComing-dark-color-theme.json: Problems parsing JSON theme file: Value expected
+    at file:///Applications/Visual Studio Code - Insiders.app/Contents/Resources/app/out/vs/workbench/workbench.main.js:3278:805
+    at Object.v [as _notify] (file:///Applications/Visual Studio Code - Insiders.app/Contents/Resources/app/out/vs/workbench/workbench.main.js:145:532)
+    at Object.enter (file:///Applications/Visual Studio Code - Insiders.app/Contents/Resources/app/out/vs/workbench/workbench.main.js:148:784)
+    at n.Class.derive._creator._run (file:///Applications/Visual Studio Code - Insiders.app/Contents/Resources/app/out/vs/workbench/workbench.main.js:150:84)
+    at n.Class.derive._creator._chainedError (file:///Applications/Visual Studio Code - Insiders.app/Contents/Resources/app/out/vs/workbench/workbench.main.js:149:441)
+    at n (file:///Applications/Visual Studio Code - Insiders.app/Contents/Resources/app/out/vs/workbench/workbench.main.js:147:305)
+    at n.Class.define.cancel.then (file:///Applications/Visual Studio Code - Insiders.app/Contents/Resources/app/out/vs/workbench/workbench.main.js:150:893)
+    at Object.enter (file:///Applications/Visual Studio Code - Insiders.app/Contents/Resources/app/out/vs/workbench/workbench.main.js:147:374)
+    at n.Class.derive._creator._run (file:///Applications/Visual Studio Code - Insiders.app/Contents/Resources/app/out/vs/workbench/workbench.main.js:150:84)
+    at n.Class.derive._creator._setCompleteValue (file:///Applications/Visual Studio Code - Insiders.app/Contents/Resources/app/out/vs/workbench/workbench.main.js:149:776)
+[2018-03-07 22:27:28.074] [renderer1] [info] Requested uninstalling the extension Tyriar.vscode-terminal-here from window 1
+[2018-03-07 22:27:28.141] [renderer1] [info] Uninstalling the extension Tyriar.vscode-terminal-here-0.1.1 from window 1

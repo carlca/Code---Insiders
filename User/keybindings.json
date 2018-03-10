@@ -1,0 +1,13 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+  {
+    "key": "ctrl+`",
+    "command": "terminalHere.create",
+    "when": "!terminalFocus"
+  },
+  {
+    "key": "ctrl+`",
+    "command": "workbench.action.terminal.kill",
+    "when": "terminalFocus"
+  }
+]

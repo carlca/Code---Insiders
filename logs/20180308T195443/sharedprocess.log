@@ -1,0 +1,55 @@
+[2018-03-08 19:54:57.306] [sharedprocess] [info] main {"machineId":"36ec910d688acd007eb110425c1ec45c8aae321d3479aff6e48c95ef59ba9530"}
+[2018-03-08 19:55:04.806] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 19:55:06.168] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-08 19:55:06.182] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 19:55:06.186] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 19:55:06.217] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-08 19:55:17.481] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 19:55:19.122] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 19:55:19.126] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 19:55:19.136] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 19:55:19.452] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-08 19:55:19.502] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-08 19:55:37.327] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-03-08 19:56:19.757] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 19:56:19.758] [sharedprocess] [info] Uninstalling extension: Tyriar.vscode-terminal-here-0.1.1
+[2018-03-08 19:56:19.758] [sharedprocess] [info] Requesting for confirmation to uninstall extension Tyriar.vscode-terminal-here-0.1.1
+[2018-03-08 19:56:19.758] [sharedprocess] [info] Routing choice request to the client window:1
+[2018-03-08 19:56:24.757] [sharedprocess] [info] Successfully uninstalled extension: Tyriar.vscode-terminal-here-0.1.1
+[2018-03-08 19:56:27.945] [sharedprocess] [info] Scanned user extensions: 44
+[2018-03-08 19:56:28.050] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-08 20:00:18.837] [sharedprocess] [info] Scanned user extensions: 44
+[2018-03-08 20:01:56.432] [sharedprocess] [info] Scanned user extensions: 44
+[2018-03-08 20:01:56.624] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-08 20:01:56.634] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-08 20:01:57.314] [sharedprocess] [info] Scanned user extensions: 44
+[2018-03-08 20:05:20.359] [sharedprocess] [info] Scanned user extensions: 44
+[2018-03-08 20:05:20.524] [sharedprocess] [info] Installing extension: integrated-terminal-filedir
+[2018-03-08 20:05:23.336] [sharedprocess] [info] Downloaded extension: integrated-terminal-filedir
+[2018-03-08 20:05:25.762] [sharedprocess] [info] Extracted extension to /Users/carlca/.vscode-insiders/extensions/algon-320.integrated-terminal-filedir-0.0.1: algon-320.integrated-terminal-filedir-0.0.1
+[2018-03-08 20:05:26.274] [sharedprocess] [info] Updated metadata of the extension: algon-320.integrated-terminal-filedir-0.0.1
+[2018-03-08 20:05:26.275] [sharedprocess] [info] Extensions installed successfully: algon-320.integrated-terminal-filedir
+[2018-03-08 20:05:28.148] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 20:05:28.218] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-08 20:05:34.797] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 20:05:34.842] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-08 20:05:34.844] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-08 20:05:34.844] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-08 20:05:35.074] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 20:05:35.377] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 20:05:35.572] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 20:05:35.760] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 20:05:39.441] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 20:08:37.330] [sharedprocess] [info] main {"machineId":"36ec910d688acd007eb110425c1ec45c8aae321d3479aff6e48c95ef59ba9530"}
+[2018-03-08 20:08:39.036] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 20:08:39.298] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-08 20:08:39.423] [sharedprocess] [info] Deleted from disk Tyriar.vscode-terminal-here-0.1.1
+[2018-03-08 20:08:40.213] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 20:08:40.254] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 20:08:40.348] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-08 20:08:40.462] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 20:08:43.500] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 20:09:17.350] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-03-08 20:13:44.690] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 20:18:45.435] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 20:23:46.939] [sharedprocess] [info] Scanned user extensions: 45

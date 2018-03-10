@@ -1,0 +1,11 @@
+2018-3-9 22:54:14:
+------------------
+Unexpected token (/Users/carlca/Library/Application Support/Code - Insiders/User/keybindings.json:10:16)
+   8 |   {
+   9 |     "key": "ctrl+`",
+> 10 |     "command": ,
+     |                ^
+  11 |     "when": "terminalFocus"
+  12 |   },
+  13 | ]
+

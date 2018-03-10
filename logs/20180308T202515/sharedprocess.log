@@ -1,0 +1,41 @@
+[2018-03-08 20:25:32.018] [sharedprocess] [info] main {"machineId":"36ec910d688acd007eb110425c1ec45c8aae321d3479aff6e48c95ef59ba9530"}
+[2018-03-08 20:25:34.634] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 20:25:36.525] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 20:25:36.533] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 20:25:36.534] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-08 20:25:36.657] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-08 20:25:40.010] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 20:26:12.042] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-03-08 20:30:42.879] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 20:35:43.913] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 20:40:45.588] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 20:45:46.836] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 20:50:48.574] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 20:55:49.553] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 21:00:51.531] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 21:05:52.934] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 21:06:36.999] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 21:06:37.043] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 21:06:37.045] [sharedprocess] [info] Scanned user extensions: 45
+[2018-03-08 21:06:37.476] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-08 21:06:37.486] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-08 21:07:09.494] [sharedprocess] [info] Installing extension: vscode-terminal-here
+[2018-03-08 21:07:10.348] [sharedprocess] [info] Downloaded extension: vscode-terminal-here
+[2018-03-08 21:07:10.446] [sharedprocess] [info] Extracted extension to /Users/carlca/.vscode-insiders/extensions/Tyriar.vscode-terminal-here-0.1.1: Tyriar.vscode-terminal-here-0.1.1
+[2018-03-08 21:07:10.910] [sharedprocess] [info] Updated metadata of the extension: Tyriar.vscode-terminal-here-0.1.1
+[2018-03-08 21:07:10.911] [sharedprocess] [info] Extensions installed successfully: Tyriar.vscode-terminal-here
+[2018-03-08 21:07:11.187] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-08 21:07:11.197] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-08 21:07:24.910] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-08 21:07:24.918] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-08 21:07:24.921] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-08 21:07:24.935] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-08 21:07:24.945] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-08 21:07:24.974] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-08 21:07:24.982] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-08 21:07:24.993] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-08 21:07:29.944] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-08 21:12:31.543] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-08 21:17:33.952] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-08 21:22:35.424] [sharedprocess] [info] Scanned user extensions: 46
+[2018-03-08 21:27:37.020] [sharedprocess] [info] Scanned user extensions: 46

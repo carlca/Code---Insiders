@@ -1,0 +1,448 @@
+Finished running tool: /usr/local/go/bin/go tool vet -asmdecl -assign -atomic -bool -buildtags -cgocall -compositewhitelist -httpresponse -lostcancel -methods -nilfunc -printf -rangeloops -shadow -shadowstrict -shift -source -structtags -tests -unreachable -unsafeptr -unusedfuncs errors.New,fmt.Errorf,fmt.Sprintf,fmt.Sprint,sort.Reverse -unusedresult -unusedstringmethods Error,String .
+
+Finished running tool: /usr/local/go/bin/go build -i -o /var/folders/1d/1rqcnlq51zd4j_vqhp1kv3540000gp/T/go-code-check .
+
+Installing 10 tools at /Users/carlca/go/bin
+  gocode
+  gopkgs
+  go-outline
+  go-symbols
+  guru
+  gorename
+  godef
+  godoc
+  goreturns
+  golint
+
+Installing 15 tools at /Users/carlca/go/bin
+  gocode
+  gopkgs
+  go-outline
+  go-symbols
+  guru
+  gorename
+  gomodifytags
+  goplay
+  impl
+  fillstruct
+  godef
+  godoc
+  goreturns
+  golint
+  gotests
+
+Installing github.com/nsf/gocode SUCCEEDED
+Installing github.com/nsf/gocode SUCCEEDED
+Installing github.com/uudashr/gopkgs/cmd/gopkgs FAILED
+Installing github.com/uudashr/gopkgs/cmd/gopkgs SUCCEEDED
+Installing github.com/ramya-rao-a/go-outline SUCCEEDED
+Installing github.com/acroca/go-symbols SUCCEEDED
+Installing github.com/ramya-rao-a/go-outline FAILED
+Installing github.com/acroca/go-symbols SUCCEEDED
+Installing golang.org/x/tools/cmd/guru SUCCEEDED
+Installing golang.org/x/tools/cmd/gorename SUCCEEDED
+Installing golang.org/x/tools/cmd/guru SUCCEEDED
+Installing github.com/rogpeppe/godef SUCCEEDED
+Installing golang.org/x/tools/cmd/gorename SUCCEEDED
+Installing github.com/fatih/gomodifytags SUCCEEDED
+Installing golang.org/x/tools/cmd/godoc SUCCEEDED
+Installing github.com/haya14busa/goplay/cmd/goplay SUCCEEDED
+Installing github.com/josharian/impl SUCCEEDED
+Installing sourcegraph.com/sqs/goreturns SUCCEEDED
+Installing github.com/davidrjenni/reftools/cmd/fillstruct SUCCEEDED
+Installing github.com/rogpeppe/godef SUCCEEDED
+Installing github.com/golang/lint/golint SUCCEEDED
+
+1 tools failed to install.
+
+gopkgs:
+Error: Command failed: /usr/local/go/bin/go get -u -v github.com/uudashr/gopkgs/cmd/gopkgs
+github.com/uudashr/gopkgs (download)
+# cd /Users/carlca/go/src/github.com/uudashr/gopkgs; git pull --ff-only
+From https://github.com/uudashr/gopkgs
+ * branch            HEAD       -> FETCH_HEAD
+error: The following untracked working tree files would be overwritten by merge:
+	.gitignore
+	.travis.yml
+	Gopkg.lock
+	Gopkg.toml
+	LICENSE
+	Makefile
+	README.md
+	cmd/gopkgs/main.go
+	doc.go
+	gopkgs.go
+	gopkgs_test.go
+Please move or remove them before you merge.
+Aborting
+package github.com/uudashr/gopkgs/cmd/gopkgs: exit status 1
+github.com/uudashr/gopkgs (download)
+# cd /Users/carlca/go/src/github.com/uudashr/gopkgs; git pull --ff-only
+From https://github.com/uudashr/gopkgs
+ * branch            HEAD       -> FETCH_HEAD
+error: The following untracked working tree files would be overwritten by merge:
+	.gitignore
+	.travis.yml
+	Gopkg.lock
+	Gopkg.toml
+	LICENSE
+	Makefile
+	README.md
+	cmd/gopkgs/main.go
+	doc.go
+	gopkgs.go
+	gopkgs_test.go
+Please move or remove them before you merge.
+Aborting
+package github.com/uudashr/gopkgs/cmd/gopkgs: exit status 1
+
+Installing golang.org/x/tools/cmd/godoc SUCCEEDED
+Installing sourcegraph.com/sqs/goreturns SUCCEEDED
+Installing github.com/golang/lint/golint SUCCEEDED
+Installing github.com/cweill/gotests/... SUCCEEDED
+
+1 tools failed to install.
+
+go-outline:
+Error: Command failed: /usr/local/go/bin/go get -u -v github.com/ramya-rao-a/go-outline
+github.com/ramya-rao-a/go-outline (download)
+Fetching https://golang.org/x/tools/go/buildutil?go-get=1
+Parsing meta tags from https://golang.org/x/tools/go/buildutil?go-get=1 (status code 200)
+get "golang.org/x/tools/go/buildutil": found meta tag get.metaImport{Prefix:"golang.org/x/tools", VCS:"git", RepoRoot:"https://go.googlesource.com/tools"} at https://golang.org/x/tools/go/buildutil?go-get=1
+get "golang.org/x/tools/go/buildutil": verifying non-authoritative meta tag
+Fetching https://golang.org/x/tools?go-get=1
+Parsing meta tags from https://golang.org/x/tools?go-get=1 (status code 200)
+golang.org/x/tools (download)
+# cd /Users/carlca/go/src/golang.org/x/tools; git pull --ff-only
+From https://go.googlesource.com/tools
+ * [new branch]        master                -> origin/master
+ * [new branch]        release-branch.go1.10 -> origin/release-branch.go1.10
+ * [new branch]        release-branch.go1.2  -> origin/release-branch.go1.2
+ * [new branch]        release-branch.go1.3  -> origin/release-branch.go1.3
+ * [new branch]        release-branch.go1.4  -> origin/release-branch.go1.4
+ * [new branch]        release-branch.go1.5  -> origin/release-branch.go1.5
+ * [new branch]        release-branch.go1.6  -> origin/release-branch.go1.6
+ * [new branch]        release-branch.go1.7  -> origin/release-branch.go1.7
+ * [new branch]        release-branch.go1.8  -> origin/release-branch.go1.8
+ * [new branch]        release-branch.go1.9  -> origin/release-branch.go1.9
+error: The following untracked working tree files would be overwritten by merge:
+	.gitattributes
+	.gitignore
+	AUTHORS
+	CONTRIBUTING.md
+	CONTRIBUTORS
+	LICENSE
+	PATENTS
+	README.md
+	benchmark/parse/parse.go
+	benchmark/parse/parse_test.go
+	blog/atom/atom.go
+	blog/blog.go
+	cmd/benchcmp/benchcmp.go
+	cmd/benchcmp/benchcmp_test.go
+	cmd/benchcmp/compare.go
+	cmd/benchcmp/compare_test.go
+	cmd/benchcmp/doc.go
+	cmd/bundle/.gitignore
+	cmd/bundle/main.go
+	cmd/bundle/main_test.go
+	cmd/bundle/testdata/out.golden
+	cmd/bundle/testdata/src/domain.name/importdecl/p.go
+	cmd/bundle/testdata/src/initial/a.go
+	cmd/bundle/testdata/src/initial/b.go
+	cmd/bundle/testdata/src/initial/c.go
+	cmd/callgraph/main.go
+	cmd/callgraph/main_test.go
+	cmd/callgraph/testdata/src/pkg/pkg.go
+	cmd/callgraph/testdata/src/pkg/pkg_test.go
+	cmd/compilebench/main.go
+	cmd/cover/README
+	cmd/cover/cover.go
+	cmd/cover/cover_test.go
+	cmd/cover/doc.go
+	cmd/cover/func.go
+	cmd/cover/html.go
+	cmd/cover/testdata/main.go
+	cmd/cover/testdata/test.go
+	cmd/digraph/digraph.go
+	cmd/digraph/digraph_test.go
+	cmd/eg/eg.go
+	cmd/fiximports/main.go
+	cmd/fiximports/main_test.go
+	cmd/fiximports/testdata/src/fruit.io/banana/banana.go
+	cmd/fiximports/testdata/src/fruit.io/orange/orange.go
+	cmd/fiximports/testdata/src/fruit.io/pear/pear.go
+	cmd/fiximports/testdata/src/new.com/one/one.go
+	cmd/fiximports/testdata/src/old.com/bad/bad.go
+	cmd/fiximports/testdata/src/old.com/one/one.go
+	cmd/fiximports/testdata/src/titanic.biz/bar/bar.go
+	cmd/fiximports/testdata/src/titanic.biz/foo/foo.go
+	cmd/getgo/.dockerignore
+	cmd/getgo/.gitignore
+	cmd/getgo/Dockerfile
+	cmd/getgo/LICENSE
+	cmd/getgo/README.md
+	cmd/getgo/download.go
+	cmd/getgo/download_test.go
+	cmd/getgo/main.go
+	cmd/getgo/main_test.go
+	cmd/getgo/make.bash
+	cmd/getgo/path.go
+	cmd/getgo/path_test.go
+	cmd/getgo/server/README.md
+	cmd/getgo/server/app.yaml
+	cmd/getgo/server/main.go
+	cmd/getgo/steps.go
+	cmd/getgo/system.go
+	cmd/getgo/system_unix.go
+	cmd/getgo/system_windows.go
+	cmd/getgo/upload.bash
+	cmd/go-contrib-init/contrib.go
+	cmd/go-contrib-init/contrib_test.go
+	cmd/godex/doc.go
+	cmd/godex/gc.go
+	cmd/godex/gccgo.go
+	cmd/godex/godex.go
+	cmd/godex/isAlias18.go
+	cmd/godex/isAlias19.go
+	cmd/godex/print.go
+	cmd/godex/source.go
+	cmd/godex/writetype.go
+	cmd/godoc/README.godoc-app
+	cmd/godoc/appinit.go
+	cmd/godoc/autocert.go
+	cmd/godoc/blog.go
+	cmd/godoc/codewalk.go
+	cmd/godoc/dl.go
+	cmd/godoc/doc.go
+	cmd/godoc/godoc19_test.go
+	cmd/godoc/godoc_test.go
+	cmd/godoc/handlers.go
+	cmd/godoc/index.go
+	cmd/godoc/main.go
+	cmd/godoc/play.go
+	cmd/godoc/remotesearch.go
+	cmd/godoc/setup-godoc-app.bash
+	cmd/godoc/x.go
+	cmd/goimports/doc.go
+	cmd/goimports/goimports.go
+	cmd/goimports/goimports_gc.go
+	cmd/goimports/goimports_not_gc.go
+	cmd/gomvpkg/main.go
+	cmd/gorename/cgo_test.go
+	cmd/gorename/gorename_test.go
+	cmd/gorename/main.go
+	cmd/gotype/gotype.go
+	cmd/gotype/sizesFor18.go
+	cmd/gotype/sizesFor19.go
+	cmd/goyacc/doc.go
+	cmd/goyacc/testdata/expr/README
+	cmd/goyacc/testdata/expr/expr.y
+	cmd/goyacc/testdata/expr/main.go
+	cmd/goyacc/yacc.go
+	cmd/guru/callees.go
+	cmd/guru/callers.go
+	cmd/guru/callstack.go
+	cmd/guru/definition.go
+	cmd/guru/describe.go
+	cmd/guru/freevars.go
+	cmd/guru/guru.go
+	cmd/guru/guru_test.go
+	cmd/guru/implements.go
+	cmd/guru/isAlias18.go
+	cmd/guru/isAlias19.go
+	cmd/guru/main.go
+	cmd/guru/peers.go
+	cmd/guru/pointsto.go
+	cmd/guru/pos.go
+	cmd/guru/referrers.go
+	cmd/guru/serial/serial.go
+	cmd/guru/testdata/src/README.txt
+	cmd/guru/testdata/src/alias/alias.go
+	cmd/guru/testdata/src/alias/alias.golden
+	cmd/guru/testdata/src/calls-json/main.go
+	cmd/guru/testdata/src/calls-json/main.golden
+	cmd/guru/testdata/src/calls/main.go
+	cmd/guru/testdata/src/calls/main.golden
+	cmd/guru/testdata/src/definition-json/main.go
+	cmd/guru/testdata/src/definition-json/main.golden
+	cmd/guru/testdata/src/definition-json/main19.go
+	cmd/guru/testdata/src/definition-json/main19.golden
+	cmd/guru/testdata/src/definition-json/type.go
+	cmd/guru/testdata/src/describe-json/main.go
+	cmd/guru/testdata/src/describe-json/main.golden
+	cmd/guru/testdata/src/describe/main.go
+	cmd/guru/testdata/src/descr
+Aborting
+package golang.org/x/tools/go/buildutil: exit status 1
+github.com/ramya-rao-a/go-outline (download)
+Fetching https://golang.org/x/tools/go/buildutil?go-get=1
+Parsing meta tags from https://golang.org/x/tools/go/buildutil?go-get=1 (status code 200)
+get "golang.org/x/tools/go/buildutil": found meta tag get.metaImport{Prefix:"golang.org/x/tools", VCS:"git", RepoRoot:"https://go.googlesource.com/tools"} at https://golang.org/x/tools/go/buildutil?go-get=1
+get "golang.org/x/tools/go/buildutil": verifying non-authoritative meta tag
+Fetching https://golang.org/x/tools?go-get=1
+Parsing meta tags from https://golang.org/x/tools?go-get=1 (status code 200)
+golang.org/x/tools (download)
+# cd /Users/carlca/go/src/golang.org/x/tools; git pull --ff-only
+From https://go.googlesource.com/tools
+ * [new branch]        master                -> origin/master
+ * [new branch]        release-branch.go1.10 -> origin/release-branch.go1.10
+ * [new branch]        release-branch.go1.2  -> origin/release-branch.go1.2
+ * [new branch]        release-branch.go1.3  -> origin/release-branch.go1.3
+ * [new branch]        release-branch.go1.4  -> origin/release-branch.go1.4
+ * [new branch]        release-branch.go1.5  -> origin/release-branch.go1.5
+ * [new branch]        release-branch.go1.6  -> origin/release-branch.go1.6
+ * [new branch]        release-branch.go1.7  -> origin/release-branch.go1.7
+ * [new branch]        release-branch.go1.8  -> origin/release-branch.go1.8
+ * [new branch]        release-branch.go1.9  -> origin/release-branch.go1.9
+error: The following untracked working tree files would be overwritten by merge:
+	.gitattributes
+	.gitignore
+	AUTHORS
+	CONTRIBUTING.md
+	CONTRIBUTORS
+	LICENSE
+	PATENTS
+	README.md
+	benchmark/parse/parse.go
+	benchmark/parse/parse_test.go
+	blog/atom/atom.go
+	blog/blog.go
+	cmd/benchcmp/benchcmp.go
+	cmd/benchcmp/benchcmp_test.go
+	cmd/benchcmp/compare.go
+	cmd/benchcmp/compare_test.go
+	cmd/benchcmp/doc.go
+	cmd/bundle/.gitignore
+	cmd/bundle/main.go
+	cmd/bundle/main_test.go
+	cmd/bundle/testdata/out.golden
+	cmd/bundle/testdata/src/domain.name/importdecl/p.go
+	cmd/bundle/testdata/src/initial/a.go
+	cmd/bundle/testdata/src/initial/b.go
+	cmd/bundle/testdata/src/initial/c.go
+	cmd/callgraph/main.go
+	cmd/callgraph/main_test.go
+	cmd/callgraph/testdata/src/pkg/pkg.go
+	cmd/callgraph/testdata/src/pkg/pkg_test.go
+	cmd/compilebench/main.go
+	cmd/cover/README
+	cmd/cover/cover.go
+	cmd/cover/cover_test.go
+	cmd/cover/doc.go
+	cmd/cover/func.go
+	cmd/cover/html.go
+	cmd/cover/testdata/main.go
+	cmd/cover/testdata/test.go
+	cmd/digraph/digraph.go
+	cmd/digraph/digraph_test.go
+	cmd/eg/eg.go
+	cmd/fiximports/main.go
+	cmd/fiximports/main_test.go
+	cmd/fiximports/testdata/src/fruit.io/banana/banana.go
+	cmd/fiximports/testdata/src/fruit.io/orange/orange.go
+	cmd/fiximports/testdata/src/fruit.io/pear/pear.go
+	cmd/fiximports/testdata/src/new.com/one/one.go
+	cmd/fiximports/testdata/src/old.com/bad/bad.go
+	cmd/fiximports/testdata/src/old.com/one/one.go
+	cmd/fiximports/testdata/src/titanic.biz/bar/bar.go
+	cmd/fiximports/testdata/src/titanic.biz/foo/foo.go
+	cmd/getgo/.dockerignore
+	cmd/getgo/.gitignore
+	cmd/getgo/Dockerfile
+	cmd/getgo/LICENSE
+	cmd/getgo/README.md
+	cmd/getgo/download.go
+	cmd/getgo/download_test.go
+	cmd/getgo/main.go
+	cmd/getgo/main_test.go
+	cmd/getgo/make.bash
+	cmd/getgo/path.go
+	cmd/getgo/path_test.go
+	cmd/getgo/server/README.md
+	cmd/getgo/server/app.yaml
+	cmd/getgo/server/main.go
+	cmd/getgo/steps.go
+	cmd/getgo/system.go
+	cmd/getgo/system_unix.go
+	cmd/getgo/system_windows.go
+	cmd/getgo/upload.bash
+	cmd/go-contrib-init/contrib.go
+	cmd/go-contrib-init/contrib_test.go
+	cmd/godex/doc.go
+	cmd/godex/gc.go
+	cmd/godex/gccgo.go
+	cmd/godex/godex.go
+	cmd/godex/isAlias18.go
+	cmd/godex/isAlias19.go
+	cmd/godex/print.go
+	cmd/godex/source.go
+	cmd/godex/writetype.go
+	cmd/godoc/README.godoc-app
+	cmd/godoc/appinit.go
+	cmd/godoc/autocert.go
+	cmd/godoc/blog.go
+	cmd/godoc/codewalk.go
+	cmd/godoc/dl.go
+	cmd/godoc/doc.go
+	cmd/godoc/godoc19_test.go
+	cmd/godoc/godoc_test.go
+	cmd/godoc/handlers.go
+	cmd/godoc/index.go
+	cmd/godoc/main.go
+	cmd/godoc/play.go
+	cmd/godoc/remotesearch.go
+	cmd/godoc/setup-godoc-app.bash
+	cmd/godoc/x.go
+	cmd/goimports/doc.go
+	cmd/goimports/goimports.go
+	cmd/goimports/goimports_gc.go
+	cmd/goimports/goimports_not_gc.go
+	cmd/gomvpkg/main.go
+	cmd/gorename/cgo_test.go
+	cmd/gorename/gorename_test.go
+	cmd/gorename/main.go
+	cmd/gotype/gotype.go
+	cmd/gotype/sizesFor18.go
+	cmd/gotype/sizesFor19.go
+	cmd/goyacc/doc.go
+	cmd/goyacc/testdata/expr/README
+	cmd/goyacc/testdata/expr/expr.y
+	cmd/goyacc/testdata/expr/main.go
+	cmd/goyacc/yacc.go
+	cmd/guru/callees.go
+	cmd/guru/callers.go
+	cmd/guru/callstack.go
+	cmd/guru/definition.go
+	cmd/guru/describe.go
+	cmd/guru/freevars.go
+	cmd/guru/guru.go
+	cmd/guru/guru_test.go
+	cmd/guru/implements.go
+	cmd/guru/isAlias18.go
+	cmd/guru/isAlias19.go
+	cmd/guru/main.go
+	cmd/guru/peers.go
+	cmd/guru/pointsto.go
+	cmd/guru/pos.go
+	cmd/guru/referrers.go
+	cmd/guru/serial/serial.go
+	cmd/guru/testdata/src/README.txt
+	cmd/guru/testdata/src/alias/alias.go
+	cmd/guru/testdata/src/alias/alias.golden
+	cmd/guru/testdata/src/calls-json/main.go
+	cmd/guru/testdata/src/calls-json/main.golden
+	cmd/guru/testdata/src/calls/main.go
+	cmd/guru/testdata/src/calls/main.golden
+	cmd/guru/testdata/src/definition-json/main.go
+	cmd/guru/testdata/src/definition-json/main.golden
+	cmd/guru/testdata/src/definition-json/main19.go
+	cmd/guru/testdata/src/definition-json/main19.golden
+	cmd/guru/testdata/src/definition-json/type.go
+	cmd/guru/testdata/src/describe-json/main.go
+	cmd/guru/testdata/src/describe-json/main.golden
+	cmd/guru/testdata/src/describe/main.go
+	cmd/guru/testdata/src/descr
+Aborting
+package golang.org/x/tools/go/buildutil: exit status 1
+

@@ -1,0 +1,19 @@
+file:///Users/carlca/code/go/src/github.com/adonovan/gopl.io/ch1/echo4/main.go
+package main
+
+import (
+	"fmt"
+	"os"
+	"strings"
+)
+
+//!+
+func main() {
+	var b strings.Builder
+	var sep string
+	for _, arg := range os.Args[1:] {
+		fmt.Fprintf(&b, "%s%s", sep, arg)
+		sep = " "
+	}
+	fmt.Println(b.String())
+}
